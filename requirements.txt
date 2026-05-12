@@ -1,0 +1,8 @@
+flask
+werkzeug
+tensorflow
+tf_keras
+opencv-python
+imutils
+numpy
+scikit-learn
